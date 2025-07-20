@@ -169,5 +169,6 @@ This exam answer compilation is for educational purposes only.
 
 ## ✍️ Author
 
-Prepared by: *[Your Name or Team]*  
-Contact: [your_email@example.com]
+Roen keovisal
+Student at IT Academy Step Cambodia
+GitHub: https://github.com/visall1
